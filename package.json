@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Personal portfolio app built in React",
   "engines": {
-    "node": "12.18.3"
+    "node": "15.9.0"
   },
-
   "scripts": {
     "preinstall": "npm set audit false",
     "start": "webpack-dev-server --config webpack/dev.config.js --watch",
@@ -65,7 +64,7 @@
     "html-to-draftjs": "^1.5.0",
     "html-webpack-plugin": "^3.2.0",
     "moment": "^2.29.1",
-    "node-sass": "5.0.0",
+    "node-sass": "6.0.0",
     "postcss-loader": "^2.1.6",
     "react": "16.13.1",
     "react-dom": "16.13.1",
@@ -78,7 +77,7 @@
     "react-router-dom": "5.1.2",
     "react-truncate": "^2.4.0",
     "redux": "4.0.5",
-    "sass-loader": "10.0.1",
+    "sass-loader": "10.2.0",
     "striptags": "^3.2.0",
     "style-loader": "^0.21.0",
     "webpack": "4.42.1",
